@@ -1,0 +1,15 @@
+img {
+  max-width: 100%;
+  display: block;
+}
+.foto1 {
+  width: 300px;
+}
+.foto2 {
+  width: 150px;
+}
+.foto3 {
+  max-width: 100%;
+  width: 600px;
+  display: block;
+}
