@@ -1,0 +1,19 @@
+h2 {
+  background: #e7e7e7;
+  border: 1px solid #000;
+  padding: 20px;
+  margin: 0px;
+}
+
+.flex {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  background-color: chocolate;
+  height: 100vh;
+}
+body {
+  margin: 0px;
+}
